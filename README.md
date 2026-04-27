@@ -15,5 +15,5 @@ Based in Brazil, I’m a Business Analytics Specialist with 5+ years of experien
 ## 📫 How to reach me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/heloizabarranqueiro/)
-- 💻 [GitHub](https://github.com/heloizabarranqueiro)
+- 💻 [GitHub](https://github.com/hbarranqueiro)
 - 📧 [heloizabarranqueiro@gmail.com](mailto:heloizabarranqueiro@gmail.com)
