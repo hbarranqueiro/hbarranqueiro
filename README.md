@@ -6,7 +6,7 @@ Based in Brazil, I’m a Business Analytics Specialist with 5+ years of experien
 
 ## 💡 Key skills
 
-- SQL and data manipulation for analytics
+- SQL and Python for data manipulation and analytics 
 - Dashboarding and BI tools (Looker, Mixpanel, BigQuery)
 - Data modeling and KPI definition
 - Process automation and operational analytics
